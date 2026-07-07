@@ -38,9 +38,6 @@ This project explores several algorithms for constructing superpermutations and 
 | DFS | **153** | 100.26 ms |
 | Random Restart | 162.18 | 9.79 ms |
 
-## Research Paper
-
-The complete research paper is included as **paper.pdf**.
 
 ## Author
 
